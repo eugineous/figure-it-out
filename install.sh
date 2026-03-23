@@ -6,7 +6,7 @@ set -euo pipefail
 
 SKILL_NAME="figure-it-out.md"
 SKILLS_DIR="$HOME/.claude/skills"
-REPO_URL="https://raw.githubusercontent.com/eugineous/figure-it-out/main/figure-it-out.md"
+REPO_URL="https://raw.githubusercontent.com/eugineous/figure-it-out/master/figure-it-out.md"
 
 echo ""
 echo "  =================================================="
