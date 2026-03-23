@@ -56,13 +56,13 @@ Most skills stop at Level 1. Figure it Out **always climbs until the solution is
 ### One-Line Install (Mac/Linux)
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/eugineous/figure-it-out/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/eugineous/figure-it-out/master/install.sh | bash
 ```
 
 ### One-Line Install (Windows PowerShell)
 
 ```powershell
-irm https://raw.githubusercontent.com/eugineous/figure-it-out/main/install.ps1 | iex
+irm https://raw.githubusercontent.com/eugineous/figure-it-out/master/install.ps1 | iex
 ```
 
 ### Manual Install
@@ -117,7 +117,7 @@ Every time Figure it Out activates, you walk away with:
 
 **Figure it Out** is available for just **$1** — less than a cup of coffee, for a skill that saves you hours of frustration and hundreds in paid API costs.
 
-**[Buy Figure it Out for $1](https://buy.stripe.com/PLACEHOLDER)**
+**[Buy Figure it Out for $1](https://github.com/eugineous/figure-it-out)**
 
 Your support keeps this project alive and funds development of new features.
 

@@ -5,7 +5,7 @@ $ErrorActionPreference = "Stop"
 
 $SkillName = "figure-it-out.md"
 $SkillsDir = "$env:USERPROFILE\.claude\skills"
-$RepoUrl = "https://raw.githubusercontent.com/eugineous/figure-it-out/main/figure-it-out.md"
+$RepoUrl = "https://raw.githubusercontent.com/eugineous/figure-it-out/master/figure-it-out.md"
 
 Write-Host ""
 Write-Host "  ==================================================" -ForegroundColor Cyan
