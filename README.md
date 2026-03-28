@@ -35,12 +35,12 @@ Figure it Out turns Claude Code into a supreme problem-solving engine. It classi
 ## Install
 **Mac/Linux**
 ```bash
-curl -fsSL https://raw.githubusercontent.com/eugineous/figure-it-out/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/eugineous/figure-it-out/master/install.sh | bash
 ```
 
 **Windows PowerShell**
 ```powershell
-irm https://raw.githubusercontent.com/eugineous/figure-it-out/main/install.ps1 | iex
+irm https://raw.githubusercontent.com/eugineous/figure-it-out/master/install.ps1 | iex
 ```
 
 **Manual**
